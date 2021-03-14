@@ -1,0 +1,27 @@
+package com.springdemp.aspect;
+
+import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.Before;
+import org.springframework.stereotype.Component;
+
+@Aspect
+@Component
+
+public class MyDemoLogAscpect {
+
+	//contins advicess
+	
+	
+	@Before("execuion(public void addAccount())")
+	public void beforeAddAccountAdvice()
+	{
+		
+		System.out.println("this is from ASPECT ");
+		
+		
+	}
+	
+	
+	
+	
+}

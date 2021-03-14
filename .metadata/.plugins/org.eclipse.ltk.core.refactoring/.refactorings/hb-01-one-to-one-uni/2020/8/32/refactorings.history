@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TestJdbc.java&apos; to &apos;web-customer-project/src/com.spring.testJDBC&apos;&#x0D;&#x0A;- Original project: &apos;hb-01-one-to-one-uni&apos;&#x0D;&#x0A;- Destination element: &apos;web-customer-project/src/com.spring.testJDBC&apos;&#x0D;&#x0A;- Original element: &apos;com.hibernate.demo.TestJdbc.java&apos;" description="Copy compilation unit" destination="=web-customer-project/src&lt;com.spring.testJDBC" element1="/src&lt;com.hibernate.demo{TestJdbc.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1596449388385" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package com.springdemo.aopdemo.dao;
+
+public class AccountDAO {
+
+}
